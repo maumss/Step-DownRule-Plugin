@@ -1,0 +1,23 @@
+# Created by https://www.gitignore.io/api/netbeans
+
+### NetBeans ###
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+# End of https://www.gitignore.io/api/netbeans
+
+# Other ignores
+/logs/
+/lib/
+/doc/LoggerGenerationFactory.java
+/doc/news.png
+/doc/news24.png
+/doc/selfSign.bat
+/doc/news651x651.png
+/doc/news700x700.png
+/doc/notificaEditor.txt
+/doc/methodInvocation.java
