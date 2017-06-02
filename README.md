@@ -22,7 +22,7 @@ Right click on java source file and choose `Step-Down Rule` to order your code.
 - Recognize properties and methods
 
 ## Credits
-Mauricio Soares da Silva - [maumss@users.noreply.github.com](mailto:maumss@users.noreply.github.com)
+[Mauricio Soares da Silva](mailto:maumss.git@gmail.com).
 
 ## License
 
